@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Paçoca (@opassoca)!
 
-Developer passionate about **low-level Android optimizations** (Kernel/Root), **high-fidelity AI API proxies**, and **wireless network security tools**.
+Developer passionate about **KSU modules**, **high-fidelity AI API proxies**, **movie streaming platforms**, and **wireless network security tools**.
 
 ---
 
@@ -8,7 +8,7 @@ Developer passionate about **low-level Android optimizations** (Kernel/Root), **
 
 To keep the ecosystem clean and organized, my projects are divided into specific categories by functionality:
 
-### ⚙️ Android Modding & KernelSU Modules
+### ⚙️ KSU Modules
 *Low-level system tweaks, performance enhancements, and bootloop protection utilities.*
 
 *   📁 **[ksu-disable-zram-boot](https://github.com/opassoca/ksu-disable-zram-boot)** — Disables ZRAM swap (`zram0`) early in the boot sequence with an autonomous watchdog to protect against bootloops.
@@ -31,7 +31,13 @@ To keep the ecosystem clean and organized, my projects are divided into specific
 *   📁 **[auth-ecosystem](https://github.com/opassoca/auth-ecosystem)** — Interactive curses-based TUI panel for switching developer API accounts.
 *   📁 **[gemini-switcher](https://github.com/opassoca/gemini-switcher)** (GMNA) — Fast CLI account profile loader.
 *   📁 **[antigravity](https://github.com/opassoca/antigravity)** (SYNC Core) — Unified AI script controller and ecosystem manager.
-*   📁 **[TorrentFlix](https://github.com/opassoca/TorrentFlix)** — Media library recommender powered by Google AI Studio and Gemini API.
+
+---
+
+### 🎬 Movie & Media Streaming
+*Applications and platforms designed for streaming and media library indexing.*
+
+*   📁 **[TorrentFlix](https://github.com/opassoca/TorrentFlix)** — Media library stream recommender and player powered by Google AI Studio and Gemini API.
 
 ---
 
