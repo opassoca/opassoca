@@ -1,12 +1,20 @@
 # 👋 Hello, I'm Paçoca (@opassoca)!
 
-Developer passionate about **KSU modules**, **high-fidelity AI API proxies**, **movie streaming platforms**, and **wireless network security tools**.
+> **"I might not be the most experienced programmer in terms of writing raw syntax, but I am highly experienced in talking to AIs and making them build exactly what I want. You've arrived at the right place."** 🚀
+
+Welcome to my profile! I am an AI-driven developer and custom Android optimization enthusiast. I build high-fidelity API bridges, low-level Android modules, and automation tools by pair-programming with the best models in the world.
+
+### 🧠 AI Engine & Models I run under Antigravity:
+*   ⚡ **Gemini 3.5 Flash** (High-speed reasoning & extreme context)
+*   🔮 **Claude 3.5 Sonnet** / Sonnet 5 (Surgical coding & software design)
+*   🐳 **DeepSeek V4 Pro** (Ultra cost-efficient open intelligence)
+*   🦅 **Nous Research Hermes** (Powerful agentic fine-tunes & Hermes Agent framework)
 
 ---
 
 ## 📂 Project Portfolio
 
-To keep the ecosystem clean and organized, my projects are divided into specific categories by functionality:
+My repositories are organized into specific functional folders:
 
 ### ⚙️ KSU Modules
 *Low-level system tweaks, performance enhancements, and bootloop protection utilities.*
@@ -45,7 +53,6 @@ To keep the ecosystem clean and organized, my projects are divided into specific
 *Automations, forks, and shells for wireless network security testing and WPS auditing.*
 
 *   📁 **[oneshot-auto](https://github.com/opassoca/oneshot-auto)** — Fork of OneShot WPS auditor with automated connection triggers after successful key retrieval.
-*   📁 **[one-shot-auto-termux](https://github.com/opassoca/one-shot-auto-termux)** — WPS key auditor automation setup for Termux on Android.
 
 ---
 
