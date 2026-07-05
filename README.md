@@ -6,7 +6,7 @@ Welcome to my profile! I am an AI-driven developer and custom Android optimizati
 
 ### 🧠 AI Engine & Models I run under Antigravity:
 *   ⚡ **Gemini 3.5 Flash** (High-speed reasoning & extreme context)
-*   🔮 **Claude 3.5 Sonnet** / Sonnet 5 (Surgical coding & software design)
+*   🔮 **Claude Sonnet 5** (Surgical coding & software design)
 *   🐳 **DeepSeek V4 Pro** (Ultra cost-efficient open intelligence)
 *   🦅 **Nous Research Hermes** (Powerful agentic fine-tunes & Hermes Agent framework)
 
