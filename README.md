@@ -28,17 +28,13 @@ My repositories are organized into specific functional folders:
 *Unified servers, API translation layers, and protocol bridges for developer LLM workflows.*
 
 *   📁 **[free-antigravity](https://github.com/opassoca/free-antigravity)** — High-performance unified AI proxy with a zero-gravity HTML physics dashboard, compatible with both *Antigravity CLI (agy)* and *Claude Code*.
-*   📁 **[antigravity-proxy](https://github.com/opassoca/antigravity-proxy)** — Execution bridge and wrapper that isolates connection layers for terminal CLI engines.
 
 ---
 
-### 🔄 Gemini CLI Identity & Quota Managers
-*Orchestrators, interactive TUI switchers, and quota managers for Gemini CLI terminal environments.*
+### 🔄 AI Orchestrators & Managers
+*Master core configurations and architecture blueprints for terminal-based Google AI.*
 
-*   📁 **[ecosystem](https://github.com/opassoca/ecosystem)** — The unified identity management nexus and direct Google tunnel sync daemon.
-*   📁 **[auth-ecosystem](https://github.com/opassoca/auth-ecosystem)** — Interactive curses-based TUI panel for switching developer API accounts.
-*   📁 **[gemini-switcher](https://github.com/opassoca/gemini-switcher)** (GMNA) — Fast CLI account profile loader.
-*   📁 **[antigravity](https://github.com/opassoca/antigravity)** (SYNC Core) — Unified AI script controller and ecosystem manager.
+*   📁 **[antigravity](https://github.com/opassoca/antigravity)** (SYNC Core) — Unified AI architecture configurations and core specifications for the Antigravity ecosystem.
 
 ---
 
